@@ -1,6 +1,8 @@
-# Include by GVerdan
-- Step 1
-> Step 2  
+# Using MarkDown
+#### Include by GVerdan
+- ___Step 1___
+> Step 2
+
 `Step 3`
 
 ```Javascript
@@ -9,4 +11,7 @@ const age = 28;
 
 ```
 
-## Using MarkDown
+
+## Include images
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
